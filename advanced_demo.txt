@@ -1,2 +1,0 @@
-{"name": "Alice Smith", "email": "alice@textfilerepository.com", "id": 1}
-{"name": "Bob Jones", "email": "bob@textfilerepository.com", "id": 2}

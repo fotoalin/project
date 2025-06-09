@@ -1,3 +1,0 @@
-{"name": "Engineering Lead", "email": "engineering@company.com", "id": 1}
-{"name": "Sales Lead", "email": "sales@company.com", "id": 2}
-{"name": "Marketing Lead", "email": "marketing@company.com", "id": 3}

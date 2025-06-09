@@ -1,2 +1,0 @@
-{"name": "Charlie Brown", "email": "charlie@example.com", "id": 1}
-{"name": "Diana Prince", "email": "diana@example.com", "id": 2}
