@@ -1,7 +1,7 @@
 # infrastructure/db_lead_repo.py
 import logging
 
-from domain.lead import Lead
+from domain.models import Lead
 from services.interfaces import LeadRepository
 
 logger = logging.getLogger(__name__)

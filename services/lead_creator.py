@@ -1,6 +1,6 @@
 import logging
 
-from domain.lead import Lead
+from domain.models import Lead
 
 from .interfaces import LeadRepository
 

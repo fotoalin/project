@@ -3,7 +3,7 @@ import logging
 from abc import ABC, abstractmethod
 from typing import List, Optional
 
-from domain.lead import Lead
+from domain.models import Lead
 
 logger = logging.getLogger(__name__)
 

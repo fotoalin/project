@@ -10,7 +10,7 @@ import logging
 import os
 from typing import List, Optional
 
-from domain.lead import Lead
+from domain.models import Lead
 from services.interfaces import LeadRepository
 
 logger = logging.getLogger(__name__)

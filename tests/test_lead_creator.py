@@ -1,7 +1,7 @@
 # services/tests/test_lead_creator.py
 import pytest
 
-from domain.lead import Lead
+from domain.models import Lead
 from services.lead_creator import LeadCreator
 
 

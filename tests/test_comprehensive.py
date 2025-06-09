@@ -11,7 +11,7 @@ from unittest.mock import patch
 
 import pytest
 
-from domain.lead import Lead
+from domain.models import Lead
 from infrastructure.db_lead_repo import InMemoryLeadRepository
 from infrastructure.email_notifier import EmailNotifier, SMSNotifier
 from infrastructure.json_lead_repo import JsonLeadRepository
